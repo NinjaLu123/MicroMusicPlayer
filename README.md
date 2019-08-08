@@ -11,6 +11,6 @@ To add a screenshot, please replace `screenshot.png` with
 your own screenshot.
 -->
 
-## <your-project-name>
+## Double Micro Bit Music Player
 
-a brief description of your project goes here
+not at all wack in any sense
