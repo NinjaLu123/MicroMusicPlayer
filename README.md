@@ -13,4 +13,4 @@ your own screenshot.
 
 ## Double Micro Bit Music Player
 
-not at all wack in any sense
+In short, I've recreated the melody to Seven Nation Army by The White Stripes. The first micro:bit uses the MusicStuff file which plays the main guitar riff. The second micro:bit in use introduces the background bass after the first verse.
